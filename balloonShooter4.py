@@ -28,7 +28,7 @@ ballonImg = pygame.image.load('ballon.jpg')
 player1   = pygame.image.load('player2.jpg')
 player2   = pygame.image.load('player3.jpg')
 arrow1    = pygame.image.load('arrow1.jpg')
-gameover  = pygame.image.load('gameover.jpg')
+gameover  = pygame.image.load('gameover.png')
 
 arrow2    = pygame.transform.flip(arrow1, True,False)
 BLACK = (0,0,0)
